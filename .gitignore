@@ -1,0 +1,7 @@
+.fseventsd/no_log
+._*
+secrets.py
+boot_out.txt
+.metadata_never_index
+.Trashes
+.vscode/settings.json
